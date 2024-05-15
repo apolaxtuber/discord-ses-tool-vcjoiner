@@ -1,7 +1,7 @@
 Bu yazılımın tamamı bana aittir. siz kullanın diye attım umarım istediğiniz sunucu istediğiniz gibi işler ;D
 nasıl çalıştırırım ?
 
-tokens.txt adlı dosyaya tokenlerinizi koyun ve dosyayı kaydedin
+tokens.txt adlı dosyaya tokenlerinizi koyun ve dosyayı kaydedin. tokenler sunucuda olmalıdır yoksa çalışmaz
 start.bat adlı dosyaya tıklayın (python dil destekli) ve dosyayı çalıştırın seçim menüsüne 
 alttaki soruların hepsini doldurun ve yazılımınız hazır dostlar iyi kullanımlar.
 Secim  ~> 1
@@ -14,3 +14,4 @@ Video? y/n ~>
 
 Apolaxtube Copyright © 
 PrimeEducation ©  
+detaylı bilgi için DM! apolaxtuber/apolaxtube/
