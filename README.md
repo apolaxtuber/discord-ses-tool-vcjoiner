@@ -13,5 +13,5 @@ Stream? y/n ~>
 Video? y/n ~> 
 
 Apolaxtube Copyright © 
-PrimeEducation ©  
+
 detaylı bilgi için DM! apolaxtuber/apolaxtube/
